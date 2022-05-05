@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">Project Manager | Passionate .Net Developer</h3>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Ecommerce Website, Scholarship Application, and Digital Library**
 
-- 🌱 I’m currently learning **Python, Machine learning**
+- 🌱 I’m currently learning **Python, Machine learning and Artificial Intelligence**
 
 - 💬 Ask me about **Microsoft.Net**
 
