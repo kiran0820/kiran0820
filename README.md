@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Machine learning and Artificial Intelligence**
 
-- 💬 Technical Skills -  **Microsoft.Net, C#, Jquery, WebAPI, Xamarin, SQL Server **
+- 💬 Technical Skills -  **Microsoft.Net, C#, Jquery, WebAPI, Xamarin, SQL Server, Python , Machine Learning **
 
 
 
